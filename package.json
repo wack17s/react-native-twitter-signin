@@ -23,7 +23,7 @@
     "type": "git",
     "url": "git+https://github.com/HackingGate/react-native-twitter-signin.git"
   },
-  "version": "1.2.5",
+  "version": "1.2.6",
   "bugs": {
     "url": "https://github.com/HackingGate/react-native-twitter-signin/issues"
   },
